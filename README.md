@@ -1,2 +1,2 @@
 # Simple-Calculator
-https://github.com/Naveen-6744/Simple-Calculator.git
+ https://naveen-6744.github.io/Simple-Calculator/
